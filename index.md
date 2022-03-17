@@ -1,37 +1,81 @@
-## Welcome to GitHub Pages
+<title>index</title> <style> html, body { padding: 0; 边距：0；背景：#272727；字体：400 16px/1.7 "Microsoft JhengHei", sans-serif; }
+        div,ul,li,h1,p,h2{
+            padding: 0;
+            margin: 0;
+        }
+        ul,li{
+            list-style: none;
+        }
+        .main{
+            text-align: center;
+        }
+        .content{
+            background: #fff;
+            padding: 20px;
+            display: inline-block;
+        }
+        .content-top{
+            font-size: 20px;
+        }
+        .content-top h2{
+            background: #ff5970;
+            color: #fff;
+            font-size: 20px;
+            padding: 10px 0;
+            font-weight: normal;
+        }
+        .content-top a{
+            display: block;
+            color: #ff5970;
+            font-style: normal;
+            display: block;
+            margin: 2px 0;
+	font-size: 20px;
+        }
+        .content-top li{
+            padding: 20px 0;
+            border-bottom: 1px solid #E2E0DE
+        }
+        .main h1{
+            color: #ff5970;
+            font-weight: normal;
+            padding: 40px 0;
+        }
+    </style>
+</head>
 
-You can use the [editor on GitHub](https://github.com/okmisss1/okmisss.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<body>
+    <div class="main">
+ <h1>灰灰av最新地址发布-猫咪AV</h1>
+        <div class="content">
+            <div class="content-top">
+                <h2>请大家 Ctrl+D 收藏本页</h2>
+                <ul>
+                    <li>
+                        灰灰av最新地址
+                        <a href="https://100maohh.com" target="_blank">https://100maohh.com</a>
+                    </li>
+                    <li>
+                         灰灰av备用地址
+                        <a href="https://99maohh.com" target="_blank">https://99maohh.com</a>
+                        <a href="https://98maohh.com" target="_blank">https://98maohh.com</a>
+		     <a href="https://97maohh.com" target="_blank">https://97maohh.com</a>
+		       <a href="https://96maohh.com" target="_blank">https://96maohh.com</a>
+		     <a href="https://95maohh.com" target="_blank">https://95maohh.com</a>
+                    </li>
+                    <li>
+                         灰灰av海外永久地址
+                        <a id='go' href="https://hhav.me" target="_blank">https://www.hhav.me</a>
+                    </li>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/okmisss1/okmisss.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+                </ul>
+                <p>如果以上地址均无法打开，欢迎发送邮件告知： <br>
+                   hhav88@gmail.com<br>
+                    会自动回复最新地址！</p>
+            </div>
+        </div>
+    </div>
+ <div style='display:none'>  
+ 
+ </div>
+</body>
