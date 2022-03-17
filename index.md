@@ -46,31 +46,24 @@
 
 <body>
     <div class="main">
- <h1>灰灰av最新地址发布-猫咪AV</h1>
+ <h1>OKmisss成人av最新地址发布-成人猫咪AV-OKmisss</h1>
         <div class="content">
             <div class="content-top">
                 <h2>请大家 Ctrl+D 收藏本页</h2>
                 <ul>
                     <li>
-                        灰灰av最新地址
-                        <a href="https://100maohh.com" target="_blank">https://100maohh.com</a>
+                        成人av最新地址
+                        <a href="https://okmisss.com" target="_blank">https://okmisss.com</a>
                     </li>
+                 
                     <li>
-                         灰灰av备用地址
-                        <a href="https://99maohh.com" target="_blank">https://99maohh.com</a>
-                        <a href="https://98maohh.com" target="_blank">https://98maohh.com</a>
-		     <a href="https://97maohh.com" target="_blank">https://97maohh.com</a>
-		       <a href="https://96maohh.com" target="_blank">https://96maohh.com</a>
-		     <a href="https://95maohh.com" target="_blank">https://95maohh.com</a>
-                    </li>
-                    <li>
-                         灰灰av海外永久地址
-                        <a id='go' href="https://hhav.me" target="_blank">https://www.hhav.me</a>
+                        成人av海外永久地址
+                        <a id='go' href="https://okmisss.com" target="_blank">https://okmisss.com</a>
                     </li>
 
                 </ul>
                 <p>如果以上地址均无法打开，欢迎发送邮件告知： <br>
-                   hhav88@gmail.com<br>
+                   okmisssVIP@gmail.com<br>
                     会自动回复最新地址！</p>
             </div>
         </div>
