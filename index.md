@@ -1,15 +1,7 @@
 
 
-      <header>
-        <span class="ribbon-outer">
-          <span class="ribbon-inner">
-            <h1>Okmisss.com</h1>
             <h2>成人AV-Pornhub & xvideo,-免费VIP成人网站</h2>
-          </span>
-          <span class="left-tail"></span>
-          <span class="right-tail"></span>
-        </span>
-      </header>
+      
 
       
         <div id="no-downloads">
