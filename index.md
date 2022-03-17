@@ -42,7 +42,7 @@
             padding: 40px 0;
         }
     </style>
-</head>
+
 
 <body>
     <div class="main">
