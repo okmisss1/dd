@@ -1,19 +1,4 @@
 
-      
-        <div id="no-downloads">
-          <span class="inner">
-          </span>
-        </div>
-      
-
-
-      <span class="banner-fix"></span>
-
-
-      <section id="main_content">
-        <html>
-	<head>
-        <meta charset="UTF-8" />
 <title>index</title> <style> html, body { padding: 0; 边距：0；背景：#272727；字体：400 16px/1.7 "Microsoft JhengHei", sans-serif; }
         div,ul,li,h1,p,h2{
             padding: 0;
